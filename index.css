@@ -22,3 +22,9 @@ body{
   .box{
     padding:50px 1px;
   }
+ .main1{
+    margin:1px !important;
+ }
+ .navbar{
+    justify-content: center;
+ }
